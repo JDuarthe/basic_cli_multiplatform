@@ -1,0 +1,3 @@
+@echo off
+echo Launching application on Windows...
+.\bin\cli-windows-amd64.exe %*
